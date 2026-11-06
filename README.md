@@ -21,13 +21,6 @@ A modern, responsive pricing section built using HTML, CSS, and JavaScript. This
 
 Live Website: "View Pricing Section" (YOUR_PUBLIC_URL)
 
-# Project Structure
-
-pricing-section/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 # Purpose
 
