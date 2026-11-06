@@ -28,6 +28,6 @@ This project is part of my frontend development practice, focusing on building r
 
 #  Author
 
-Aditya
+Aditya Sinha
 
 ---
