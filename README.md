@@ -19,7 +19,7 @@ A modern, responsive pricing section built using HTML, CSS, and JavaScript. This
 
 # Live Demo
 
-Live Website: "View Pricing Section" (YOUR_PUBLIC_URL)
+Live Website: "View Pricing Section" (https://pricing-section-delta.vercel.app)
 
 
 # Purpose
