@@ -1,33 +1,32 @@
-# Pricing Section 
+# Pricing Section
 
 A modern, responsive pricing section built using HTML, CSS, and JavaScript. This project focuses on clean UI design, structured pricing cards, and responsive layouts.
 
-# Features
+## Features
 
 - Clean and modern pricing UI
 - Multiple pricing plans
 - Responsive layout
 - Highlighted popular plan
 - Interactive elements
-- Beginner-friendly, organized code
+- Beginner-friendly and organized code
 
-# Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 
-# Live Demo
+## Live Demo
 
-Live Website: "View Pricing Section" (https://pricing-section-delta.vercel.app)
+[**View Pricing Section**](https://pricing-section-delta.vercel.app/)
 
-
-# Purpose
+## Purpose
 
 This project is part of my frontend development practice, focusing on building reusable UI components and improving HTML, CSS, and JavaScript skills.
 
-#  Author
+## Author
 
-Aditya Sinha
+**Aditya Sinha**
 
 ---
